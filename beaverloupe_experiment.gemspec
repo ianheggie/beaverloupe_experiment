@@ -75,7 +75,7 @@ Gem::Specification.new do |spec|
   spec.add_dependency "pdf-reader", "0.10.0"
   spec.add_development_dependency "polyglot", "0.3.5"
   spec.add_dependency "process_lock", "0.1.2"
-  spec.add_dependency "rack", "1.1.6"
+  spec.add_dependency "rack", "1.4.7"
   spec.add_dependency "rake", "10.5.0"
   spec.add_development_dependency "random_data", "1.6.0"
   spec.add_dependency "rawk_log", "2.4.2"
